@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Tic Tac Toe",
+        "thumbnail": "https://picsum.photos/400/200?1",
+        "iframe": "<!DOCTYPE html><html><body style='font-family:Arial;text-align:center;'><h1>Tic Tac Toe Placeholder</h1></body></html>"
+    },
+    {
+        "name": "Snake",
+        "thumbnail": "https://picsum.photos/400/200?2",
+        "iframe": "<!DOCTYPE html><html><body style='font-family:Arial;text-align:center;'><h1>Snake Placeholder</h1></body></html>"
+    }
+]
